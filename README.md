@@ -1,5 +1,6 @@
 # study-kotlin
 ## 코틀린 공부해보기
+- 스터디 도서: Kotlin in Action
 
 ### 스터디 방식
  1. 각자 책 읽기
